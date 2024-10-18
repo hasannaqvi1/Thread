@@ -44,7 +44,7 @@ public class FizzBuzz implements Runnable {
         Thread t1 = new Thread(fizzBuzz, "Fizz");
         Thread t2 = new Thread(fizzBuzz, "Buzz");
         Thread t3 = new Thread(fizzBuzz, "FizzBuzz");
-        Thread t4 = new Thread(fizzBuzz, "Number");
+        Thread t4 = new Thread(fizzBuzz, "num");
 
         t1.start();
         t2.start();
