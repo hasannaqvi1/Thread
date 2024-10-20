@@ -3,9 +3,6 @@ public class Example1 {
         Singleton s1 = Singleton.getInstance();
         Singleton s2 = Singleton.getInstance();
 
-        SingletonSerializable s3 = new SingletonSerializable();
-
-
 
         System.out.println(s1==s2);
     }
