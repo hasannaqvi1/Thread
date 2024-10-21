@@ -9,7 +9,7 @@ public class GitAmend {
 
     /*Lets test if we can amend after pushing the changes push+amend*/
 
-    /*Lets test using the interface after pushing hte changes.*/
+    /*Lets test using the interface after pushing the changes.*/
 
 
 
