@@ -7,5 +7,9 @@ public class GitAmend {
 
     /*Added new comment to test amend command*/
 
+    /*Lets test if we can amend after pushing the changes push+amend*/
+
+
+
 
 }
