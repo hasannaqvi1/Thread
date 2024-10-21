@@ -40,5 +40,9 @@ public class StreamExercise {
         // Print the average marks for each student
         averageMarks.forEach((name, avg) ->
                 System.out.println(name + "'s average marks: " + avg));
+        //find percentage of each student
+
+
+
     }
 }
